@@ -1,4 +1,5 @@
 # VNC Server
+VNC (Virtual Network Computing) is a remote desktop-sharing protocol that allows users to control another computer over a network. It works by transmitting the keyboard, mouse inputs, and screen updates between the client and server.
 # What is VNC?
 VNC (Virtual Network Computing) is a remote desktop-sharing protocol that allows users to control another computer over a network. It works by transmitting the keyboard, mouse inputs, and screen updates between the client and server.
 # Use Cases of VNC in Cybersecurity
